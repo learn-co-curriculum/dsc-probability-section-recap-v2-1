@@ -11,7 +11,7 @@ In this section, we dug into a number of foundational concepts - from NumPy to t
 * Probability is "how likely" it is that an event will happen
 * Sets in Python are unordered collections of unique elements
 * A sample space is a collection of every single possible outcome in a trial
-* The inclusion exclusion principle is a counting technique used to calculate the number of elements in a collection of sets with overlapping elements
+
 * Factorials provide the basis for calculating permutations 
 * The difference between permutations and combinations is that with combinations, order is not important
 * The "sum rule" of probability states that $P(A\cup B) = P(A) + P(B) - P(A \cap B) $
@@ -25,3 +25,5 @@ In this section, we dug into a number of foundational concepts - from NumPy to t
 
 
 In this section, we introduced the ideas of combinatorics and probability. In the next section, you'll use this knowledge and take it a step further by learning about statistical distributions and their applications!
+
+In the Appendix to this module, you can find additional material regarding sets, including an explanation of the inclusion/exclusion principle, as well as more practice problems with sets.
